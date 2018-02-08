@@ -1,0 +1,9 @@
+.BeerTappLogo {
+    padding: 8px;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.BeerTappLogo img {
+    height: 100%;
+}

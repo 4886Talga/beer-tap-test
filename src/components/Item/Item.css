@@ -1,0 +1,39 @@
+.Item {
+    width: 200px;
+	height: 300px;
+	background-color: white;
+	display: flex;
+    justify-content: center;
+    padding: 5px;
+	margin: 10px;
+	border: 1px solid #EDEDED;
+	border-radius: 1px;
+	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+.Item:hover,
+.Item:active {
+    background-color: #C0DDF5;
+}
+.ImgWrapper {
+   text-align: center;
+   padding-top: 10px;
+}
+.ItemImg {
+    background-color: transparent;
+    height: 200px;
+    width: 60px;
+    margin: 0 auto;
+}
+.ItemName {
+    text-align: center;
+    font-family: 'Roboto Slab', Georgia, serif;
+    font-size: 1.5em;
+}
+.ItemCard {
+    width: 100%;
+	background-color: transparent;
+}
+.ItemCardHeader {
+    background-color: #fff;
+}

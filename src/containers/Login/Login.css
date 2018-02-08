@@ -1,0 +1,20 @@
+.FormBtnWrapper {
+    padding: 2em 1em;
+  width: 100%;
+  background-color: #eb5424;
+  display: flex;
+  justify-content: center;
+}
+
+.FormSubmitBtn {
+  border: 1px solid #eb5424;
+  padding: 0.5em 1em;
+  border-radius: 3px;
+  background-color: #eb5424;
+  color: white;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}

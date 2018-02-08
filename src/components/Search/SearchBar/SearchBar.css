@@ -1,0 +1,36 @@
+.SerchHolder {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    z-index: 10;
+    width: 100%;
+    padding-right: 0px;
+    transition: all 0.3s ease-out;
+}
+.Button {
+    position: absolute;
+    background: transparent;
+    color: #ad9d7a;
+    border: 0px none;
+    height: 50px;
+    padding: 0 30 0 0;
+    width: auto;
+    right: 10px;
+    top: 0px;
+    margin: 0px;
+}
+.Space{
+    margin-left: 10px;
+    vertical-align: 5px;
+}
+.SearchInput {
+    width: 100%;
+    box-shadow: none;
+    margin: 0px;
+    padding: 0px 150px 0px 15px;
+    box-sizing: border-box;
+    border: 1px solid #ad9d7a;
+    font-family: "lato",serif;
+    height: 50px;
+    font-size: 16px;
+}

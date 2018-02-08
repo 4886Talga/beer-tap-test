@@ -1,0 +1,18 @@
+.ErrorWrapper {
+    display: flex;
+    justify-content: center;
+    max-width: calc(100% - 2em);
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+.Error{
+    display: inline-block;
+    background-color: #FB4F4F;
+    color: white;
+    margin: 0;
+    padding: 0.5em 1em;
+    font-size: 0.8em;
+    font-family: 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    user-select: none;
+}
+

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing <NavigationItems /> should render correctly 1`] = `
+<aux>
+  <ul
+    className="NavigationItems"
+  >
+    <li>
+      <div
+        className="SearchBar"
+        onClick={[Function]}
+      >
+        <FaSearch />
+      </div>
+    </li>
+    <navigationItem
+      exact={true}
+      link="/"
+    >
+      HOME
+    </navigationItem>
+    <navigationItem
+      link="/gallery"
+    >
+      BEERS
+    </navigationItem>
+    <navigationItem
+      link="/login"
+    >
+      LOGIN
+    </navigationItem>
+    <navigationItem
+      link="/createaccount"
+    >
+      REGISTER
+    </navigationItem>
+  </ul>
+  <SearchBar
+    show="none"
+  />
+</aux>
+`;

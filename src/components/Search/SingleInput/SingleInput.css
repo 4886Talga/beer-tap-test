@@ -1,0 +1,11 @@
+.SearchInput {
+    width: 100%;
+	box-shadow: none;
+    margin: 0px;
+    padding: 0px 150px 0px 15px;
+    box-sizing: border-box;
+    border: 1px solid #ad9d7a;
+    font-family: "lato",serif;
+    height: 50px;
+    font-size: 16px;
+}
