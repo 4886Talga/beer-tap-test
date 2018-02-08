@@ -1,2 +1,2 @@
 # beer-tap-test
-testing with jest and enzyme
+testing with jest and enzyme.
